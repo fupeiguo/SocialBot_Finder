@@ -1,8 +1,6 @@
 #####################
 # 微博转发：社交机器人分析
-# Author: Xiao Meng
-# Email: mengxiaocntc@163.com
-# Update: 2023-01-15
+
 #####################
 
 import sys 
