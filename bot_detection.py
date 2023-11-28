@@ -1,8 +1,6 @@
 #####################
 # 微博社交机器人在线识别
-# Author: Xiao Meng
-# Email: mengxiaocntc@163.com
-# Update: 2023-03-05
+
 #####################
 
 import streamlit as st
@@ -241,8 +239,3 @@ with tab3:
     st.markdown('2. 更新了网页的基本信息。')
     st.markdown('3. 添加昵称查找和UID查找两种查找方式。')
     st.markdown('4. 目前仍然存在因cookie过期而无法长期使用的问题。')
-    
-
-
-
-
